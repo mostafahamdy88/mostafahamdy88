@@ -1,11 +1,14 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/mostafahamdy88)
 <h1 align="center">Hi 👋, I'm Mostafa Hamdy</h1>
 <h3 align="center">A passionate Software Developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://h.top4top.io/p_244979vyr1.png">
+<img align="right" alt="Coding" width="400" src="https://i.top4top.io/p_2449yve9w1.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamdy88&label=Profile%20views&color=0e75b6&style=flat" alt="mostafahamdy88" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamdy88&label=Profile%20Visitors&color=0e75b6&style=flat" alt="mostafahamdy88" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mostafahammdy8" target="blank"><img src="https://img.shields.io/twitter/follow/mostafahammdy8?logo=twitter&style=for-the-badge" alt="mostafahammdy8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mostafahammdy8" target="blank"><img src="https://img.shields.io/twitter/follow/mostafahammdy8?logo=linkedin&logoColor=white&style=for-the-badge" alt="mostafahammdy8" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/mostafahammdy/" target="blank"><img src="https://img.shields.io/badge/connect_on_linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mostafahammdy"/></a></p>
+
 
 - 🔭 I’m currently working on **Mega Project (Mobile Development) at GMind**
 
