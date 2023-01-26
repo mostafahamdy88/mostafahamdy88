@@ -10,13 +10,13 @@
 <p align="left"> <a href="https://www.linkedin.com/in/mostafahammdy/" target="blank"><img src="https://img.shields.io/badge/connect_on_linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mostafahammdy"/></a></p>
 
 
-- 🔭 I’m currently working on **Mega Project (Mobile Development) at GMind**
+- 🔭 I’m currently working as **BPM Developer at Singleclic**
 
-- 🌱 I’m currently learning **Kotlin and Bonita - Software Engineering Tool (BPM)**
+- 🌱 I’m currently learning **Bonita & IBM BPM - Software Engineering Tool (BPM)**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Android, Flutter**
+- 💬 Ask me about **BPM, Android, Flutter**
 
 - 📫 How to reach me **mostafahamdy8800@gmail.com**
 
