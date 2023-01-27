@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafahamdy88&label=Profile%20Visitors&color=0e75b6&style=flat" alt="mostafahamdy88" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mostafahammdy8" target="blank"><img src="https://img.shields.io/twitter/follow/mostafahammdy8?logo=linkedin&logoColor=white&style=for-the-badge" alt="mostafahammdy8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mostafahammdy8" target="blank"><img src="https://img.shields.io/twitter/follow/mostafahammdy8?logo=twitter&logoColor=white&style=for-the-badge" alt="mostafahammdy8" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/mostafahammdy/" target="blank"><img src="https://img.shields.io/badge/connect_on_linkedin-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mostafahammdy"/></a></p>
 
