@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mostafahamdy8800@gmail.com**
 
-- 📄 Know about my experiences [My CV]((https://drive.google.com/file/d/1qZBUqf8WV7szVHoqPsyrgjGmqbcRe5YM/view?usp=drive_link))
+- 📄 Know about my experiences [My CV][(https://drive.google.com/file/d/1qZBUqf8WV7szVHoqPsyrgjGmqbcRe5YM/view?usp=drive_link)]
 
 - ⚡ Fun fact **I love Reading 📖**
 
