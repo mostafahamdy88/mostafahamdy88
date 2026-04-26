@@ -23,6 +23,12 @@ Specialized in designing scalable BPM solutions using **ARIS & IBM BAW**, with s
 
 I focus on transforming business requirements into **efficient, data-driven, and automated processes** that deliver measurable business value.
 
+<p align="left">
+<a href="https://drive.google.com/uc?export=download&id=1qZBUqf8WV7szVHoqPsyrgjGmqbcRe5YM">
+  <img src="https://img.shields.io/badge/Download%20CV-1F6FEB?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ### 💼 Experience
@@ -105,7 +111,7 @@ I focus on transforming business requirements into **efficient, data-driven, and
 ### 🌐 Connect with Me
 <p align="left">
 <a href="https://twitter.com/mostafahammdy8"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mostafahammdy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/mostafahammdy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://fb.com/Mostafa8800"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="mailto:mostafahamdy8800@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
